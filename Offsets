@@ -1,6 +1,6 @@
 namespace Offsets {
     public static class Info {
-        public static string ClientVersion = "version-test12";
+        public static string ClientVersion = "version-test123";
     }
 
     public static class AirProperties {
